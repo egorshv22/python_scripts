@@ -1,4 +1,4 @@
-# Доработанный файл parsing.py
+# Парсинг сайта и запись данных в excel книгу
 
 from bs4 import BeautifulSoup
 import requests
