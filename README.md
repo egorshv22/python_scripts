@@ -1,2 +1,2 @@
 # python_scripts
-My python scripts
+My favorite python scripts
